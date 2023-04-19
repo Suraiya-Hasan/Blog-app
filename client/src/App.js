@@ -12,7 +12,7 @@ import Home from "./pages/Home";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
-import "./style.css"
+import "./style.scss"
 import "./style/login.css"
 
 const Layout = () =>{

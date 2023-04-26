@@ -7,7 +7,7 @@ export const Navbar = () => {
     <div className='navbar'>
       <div className="container">
         <div className="logo">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__CFJvMV5PlH2KKL8ubEoPckaDT2r70gEkw&usqp=CAU" alt="logo.png" />
+          <img src="https://img.freepik.com/premium-vector/vector-image-books-monochrome-clip-art-isolated-transparent-background_764382-2218.jpg" alt="logo.png" />
         </div>
         <div className="links">
           <Link className='link' to='/?cat=art'>

@@ -6,28 +6,28 @@ export const Home = () => {
   const posts = [
     {
       id: 1,
-      title: "T1",
+      title: "Sed vulputate aliquet varius.",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis interdum sem vel ullamcorper. Ut eget ipsum in magna elementum suscipit in vitae risus. Aenean semper nisl vel tempus molestie. Donec nec bibendum felis, at rutrum ex. Morbi nec quam ac augue laoreet eleifend elementum vitae justo. Cras ullamcorper tellus justo, nec ultrices tellus pulvinar ac. Aenean convallis nisi porttitor consequat laoreet. Suspendisse dignissim lorem vitae tincidunt efficitur.",
       img: "https://images.freeimages.com/images/large-previews/b5a/beach-1361907.jpg"
     },
 
     {
       id: 2,
-      title: "T1",
+      title: "Sed vulputate aliquet varius.",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis interdum sem vel ullamcorper. Ut eget ipsum in magna elementum suscipit in vitae risus. Aenean semper nisl vel tempus molestie. Donec nec bibendum felis, at rutrum ex. Morbi nec quam ac augue laoreet eleifend elementum vitae justo. Cras ullamcorper tellus justo, nec ultrices tellus pulvinar ac. Aenean convallis nisi porttitor consequat laoreet. Suspendisse dignissim lorem vitae tincidunt efficitur.",
       img: "https://images.freeimages.com/images/large-previews/b5a/beach-1361907.jpg"
     },
 
     {
       id: 3,
-      title: "T1",
+      title: "Sed vulputate aliquet varius.",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis interdum sem vel ullamcorper. Ut eget ipsum in magna elementum suscipit in vitae risus. Aenean semper nisl vel tempus molestie. Donec nec bibendum felis, at rutrum ex. Morbi nec quam ac augue laoreet eleifend elementum vitae justo. Cras ullamcorper tellus justo, nec ultrices tellus pulvinar ac. Aenean convallis nisi porttitor consequat laoreet. Suspendisse dignissim lorem vitae tincidunt efficitur.",
       img: "https://images.freeimages.com/images/large-previews/b5a/beach-1361907.jpg"
     },
 
     {
       id: 4,
-      title: "T1",
+      title: "Sed vulputate aliquet varius.",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean facilisis interdum sem vel ullamcorper. Ut eget ipsum in magna elementum suscipit in vitae risus. Aenean semper nisl vel tempus molestie. Donec nec bibendum felis, at rutrum ex. Morbi nec quam ac augue laoreet eleifend elementum vitae justo. Cras ullamcorper tellus justo, nec ultrices tellus pulvinar ac. Aenean convallis nisi porttitor consequat laoreet. Suspendisse dignissim lorem vitae tincidunt efficitur.",
       img: "https://images.freeimages.com/images/large-previews/b5a/beach-1361907.jpg"
     },
